@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-job-scheduler:lib"
+
+    - path: "./app/Main.hs"
+      component: "haskell-job-scheduler:exe:haskell-job-scheduler-exe"
+
+    - path: "./app/Paths_haskell-job-scheduler.hs"
+      component: "haskell-job-scheduler:exe:haskell-job-scheduler-exe"
+
+    - path: "./test"
+      component: "haskell-job-scheduler:test:haskell-job-scheduler-test"
+
