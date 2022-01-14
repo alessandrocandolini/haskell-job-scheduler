@@ -1,5 +1,7 @@
 # haskell-job-scheduler
 
+[![CI](https://github.com/alessandrocandolini/haskell-job-scheduler/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/haskell-job-scheduler/actions/workflows/ci.yml) 
+
 ## How to build and run locally
 
 The project uses the [Haskell tool stack](https://docs.haskellstack.org/en/stable/README/).
